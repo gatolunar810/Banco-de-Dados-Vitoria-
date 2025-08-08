@@ -1,0 +1,15 @@
+tema: Vendas
+
+Entidades:clientes,vendas e produto.
+
+Relacionamentos: cliente compra, a loja vende e o produtos é adquirido pelo cliente
+
+Atributos: 
+Clientes: cpf,nome e identificador.
+Vendas:data, qualidade e identificador
+Produtos: valor,id produto,id cliente e identificador.
+O identificador é a chave primaria.
+
+consultas:Eu não sabia fazer absolutamente nada,então consultei alguns sites dos quais um deles foi o gpt para me auxiliar a fazer o código e tambem assisti alguns videos e aulas postadas no clasrrom.
+
+Dificuldades: tive dificuldades para entender como fazia e como lidava com o código e tambem em arrumar erros, já que nunca tinha usado o mysql.
